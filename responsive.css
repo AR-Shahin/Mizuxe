@@ -1,0 +1,11 @@
+@media (max-width:480px){
+    #banner{
+        min-height: 350px;
+    }
+    #banner .ovarlay{
+    min-height: 350px;
+}
+    #banner h1{
+        font-size: 35px;
+    }
+}
